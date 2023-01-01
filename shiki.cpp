@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Shiki, version 1.0\n");
+    printf("Shiki, version 2.0\n");
     return 0;
 }
